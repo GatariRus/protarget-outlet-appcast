@@ -5,27 +5,27 @@
 
     <!-- ANDROID -->
     <item>
-      <title>Android 0.7.7</title>
+      <title>Android 0.7.8</title>
       <description><![CDATA[
         Исправления и улучшения стабильности.
       ]]></description>
       <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=kz.protarget.protarget"
-        sparkle:version="0.7.7"
+        sparkle:version="0.7.8"
         sparkle:os="android" />
     </item>
 
     <!-- iOS -->
     <item>
-      <title>iOS 0.7.7</title>
+      <title>iOS 0.7.8</title>
       <description><![CDATA[
         Исправления и улучшения стабильности.
       ]]></description>
       <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/us/app/pro-target/id6736693468"
-        sparkle:version="0.7.7"
+        sparkle:version="0.7.8"
         sparkle:os="ios" />
     </item>
   </channel>
